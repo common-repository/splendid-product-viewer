@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Splendid Product Viewer\n"
+"POT-Creation-Date: 2014-01-23 09:04+0100\n"
+"PO-Revision-Date: 2014-01-23 09:04+0100\n"
+"Last-Translator: Alberto D'Angelo <albertodangelo@outlook.com>\n"
+"Language-Team: Alberto D'Angelo <albertodangelo@outlook.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class_pv_backend.php:200 ../class_pv_backend.php:249
+msgid "Product Thumbnail"
+msgstr ""
+
+#: ../class_pv_backend.php:214
+msgid "<em>None set</em>"
+msgstr ""
+
+#: ../class_pv_backend.php:245
+msgid "Product Image"
+msgstr ""
+
+#: ../class_pv_backend.php:286
+msgid ""
+"Warning - in order to maintain the quality standards, the minimum image "
+"width cannot be less than 600px!"
+msgstr ""
+
+#: ../class_pv_backend.php:309
+msgid "Change Image"
+msgstr ""
+
+#: ../class_pv_backend.php:315
+msgid "Upload"
+msgstr ""
+
+#: ../class_pv_backend.php:330
+msgid "Product Price:"
+msgstr ""
+
+#: ../class_pv_backend.php:335
+msgid "Product Color:"
+msgstr ""
+
+#: ../class_pv_backend.php:379
+msgid "File is valid, and was successfully uploaded.\\n"
+msgstr ""
+
+#: ../class_pv_backend.php:381
+msgid "Possible file upload attack!\\n"
+msgstr ""
+
+#: ../class_pv_backend.php:513
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: ../class_pv_backend.php:514
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+
+#: ../class_pv_backend.php:515
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: ../class_pv_backend.php:516
+msgid "No file was uploaded."
+msgstr ""
+
+#: ../class_pv_backend.php:518
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: ../class_pv_backend.php:519
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: ../class_pv_backend.php:520
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: ../class_pv_backend.php:538
+msgid "Invalid form submission."
+msgstr ""
+
+#: ../class_pv_backend.php:547
+msgid "File is empty. Please upload something more substantial."
+msgstr ""
+
+#: ../class_pv_backend.php:549
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+
+#: ../class_pv_backend.php:555
+msgid "Specified file failed upload test."
+msgstr ""
+
+#: ../class_pv_backend.php:568
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: ../class_pv_backend.php:598
+#, php-format
+msgid "The uploaded file could not be moved to %s."
+msgstr ""
+
+#: ../class_pv_frontend.php:143
+msgid "Choose a color"
+msgstr ""
+
+#: ../class_pv_frontend.php:166
+msgid "Product groups"
+msgstr ""
+
+#: ../class_pv_frontend.php:169
+msgid "All"
+msgstr ""
+
+#: ../class_pv_frontend.php:190
+msgid ""
+"From&nbsp;USD <span id=\"price-from\"></span><br />to&nbsp;USD&nbsp;<span id="
+"\"price-to\"></span>"
+msgstr ""
+"From&nbsp;GBP <span id=\"price-from\"></span>&nbsp;<br />To&nbsp;GBP&nbsp;"
+"<span id=\"price-to\"></span>"
+
+#: ../class_pv_frontend.php:213
+msgid "Price: USD&nbsp;"
+msgstr "Price: GBP&nbsp;"
+
+#: ../class_pv_frontend.php:237
+msgid "No entries found."
+msgstr ""
+
+#: ../class_pv_frontend.php:237
+msgid "New search?"
+msgstr ""
+
+#~ msgid "<span class=\"pv-price\">Price:</span> USD&nbsp;"
+#~ msgstr "<span class=\"pv-price\">Price:</span> GBP&nbsp;"
